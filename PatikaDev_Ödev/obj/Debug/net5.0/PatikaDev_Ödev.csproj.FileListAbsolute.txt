@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\PatikaDev_Ödev.exe
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\PatikaDev_Ödev.deps.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\PatikaDev_Ödev.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\PatikaDev_Ödev.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\PatikaDev_Ödev.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\ref\PatikaDev_Ödev.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\bin\Debug\net5.0\PatikaDev_Ödev.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\ref\PatikaDev_Ödev.dll
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\pratikler patika c#\PatikaDev_Ödev\obj\Debug\net5.0\PatikaDev_Ödev.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PatikaDev_Ödev/1.0.0": {
+        "runtime": {
+          "PatikaDev_Ödev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaDev_Ödev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
